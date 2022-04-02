@@ -1,0 +1,4 @@
+const registerRoute = '/register/';
+const loginRoute = '/login/';
+const mainRoute = '/mainScreen/';
+const verifyEmailRoute = '/verifyEmail/';
